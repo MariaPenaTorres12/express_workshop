@@ -1,20 +1,26 @@
 {
   "name": "express-workshop",
   "version": "1.0.0",
-  "description": "An API REST using express.js",
+  "description": "this is a project for the node.js workshop",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaPenaTorres12/express_workshop.git"
+  },
   "keywords": [
-    "api",
-    "rest",
+    "node",
     "express",
-    "nodejs"
+    "jwt",
+    "mysql"
   ],
   "author": "Maria Torres",
   "license": "ISC",
-  "dependencies": {
-    "express": "^5.1.0"
-  }
+  "bugs": {
+    "url": "https://github.com/MariaPenaTorres12/express_workshop/issues"
+  },
+  "homepage": "https://github.com/MariaPenaTorres12/express_workshop#readme"
 }
