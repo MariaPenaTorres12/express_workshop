@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/MariaPenaTorres12/express_workshop/issues"
   },
-  "homepage": "https://github.com/MariaPenaTorres12/express_workshop#readme"
+  "homepage": "https://github.com/MariaPenaTorres12/express_workshop#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
 }
